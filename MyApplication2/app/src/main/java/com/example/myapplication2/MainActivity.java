@@ -3,7 +3,7 @@ package com.example.myapplication2;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import com.example.autoconsent.PersonalDataAnnotation;
+import com.example.pda.PersonalDataAnnotation;
 import com.example.autoconsent.PersonalDataConsent;
 
 public class MainActivity extends AppCompatActivity {

@@ -1,3 +1,5 @@
+include ':pda'
+include ':pdaprocessor'
 include ':autoconsent'
 include ':app'
 rootProject.name = "My Application2"

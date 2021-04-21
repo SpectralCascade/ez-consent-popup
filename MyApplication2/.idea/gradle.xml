@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/autoconsent" />
+            <option value="$PROJECT_DIR$/pda" />
+            <option value="$PROJECT_DIR$/pdaprocessor" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
