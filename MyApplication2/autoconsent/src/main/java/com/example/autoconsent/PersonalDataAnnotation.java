@@ -1,4 +1,4 @@
-package com.example.myapplication2;
+package com.example.autoconsent;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
