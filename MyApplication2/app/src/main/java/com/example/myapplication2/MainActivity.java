@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
 //            purpose = {"Provide accurate location information"},
 //            dataType = {PersonalDataType.fine_grained_location}
 //    )
+
+    @PersonalDataAnnotation(name = "High-Accuracy Location", description = "personalised third-party advertising")
     public void locationTransfer() {
         // location transfer code
     }
@@ -30,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 class PersonalDataConsent {
+
     //@PersonalDataAnnotation
     private static String[] dataTypes = {"High-Accuracy Location", "Telephony ID", "Phone Number"};
     private static String[] transferPurposes = {"personalised third-party advertising", "hardware identification for checking personal data transfer consent",
